@@ -122,6 +122,11 @@ Blog Posts
 Google Summer of Code Blog Posts
 --------------------------------
 
+2021 Students
+~~~~~~~~~~~~~
+
+- `Bring professional efficiency to OpenWISP WiFi Login Pages <https://codesankalp.medium.com/openwisp-wifi-login-pages-project-report-fbc77ff6cc8b>`_ by Sankalp (codesankalp).
+
 2020 Students
 ~~~~~~~~~~~~~
 
